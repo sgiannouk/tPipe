@@ -1,0 +1,3584 @@
+>chr6.trna17-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:65-81
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGGGGTTTGAATGTGGTCATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11-X.trna17-4-ValTAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGTGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chrX-X-X.trna6-7-5-IleGAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTAAGAGCGTGGTGCTGATAACACCAAGGTCGCGGGCTCGACTCCCGCACCGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr3.trna8-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCTGGTGGTCTATCGGTTAGGATTCAGACCTCTCACCACTGCTACCCATGCTCGATTCCTGGTCAGGGAA
+Str: .>>>>>>..>>>>........<<<<.>>>...........<<<....>>>.>.......<.<<<<<<<<<..
+
+>chr5.trna15-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTCATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna8-Undet???.pre
+SS_info: D:9-21;A:23-40;T:45-61
+Seq: GGTCTTGTGCTCAGTGGAAGCCTCTGTCTGACCATACAGATGATCCAGGTTCGAATCCTGGCAAGGCCA
+Str: >>>>>>>.>>>.......<<<.>>>>>........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna34-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGAACCCCGTACGGGCCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr1.trna106-HisGTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCCATGATCGTATAGTGGTTAGTACTCTGCGCTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCA
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<.<<<.
+
+>chr1-1.trna121-120-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:50-62
+Seq: GGTTCCATGGTGTAATGGTGAGCACTTTGGACTCTGAATACAGTGATCAGAGTTCAAGTCTCACTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<......>>>.......<<<..<<<<<<<.
+
+>chr1.trna50-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTTTCTGTAGCGCGATCGGTTAGCGCCTTCGGCTGTTAAACGAAAGGTTGGTGGTTCGTTCCCACCCCGGGACA
+Str: >>>>>.>..>>>>.........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+>chr6.trna42-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCGGTAATCCGAGTTCAAATCTCGGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chrX.trna2-LeuTAA.pre
+SS_info: D:10-27;A:29-45;T:51-67
+Seq: GTTAAGATGGCAGAGCCCGGCAATTGCATAAGACTTAAAACTTTATAATCAGAGGTTCAACTCCTCTCATTAACA
+Str: >>>>>....>>>>..........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<..<<<<<.
+
+>chr17.trna39-TrpCCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna16-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna2-GlyTCC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTTAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna25-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTTGATTCCCGGCCAGTGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna9-TyrGTA.pre
+SS_info: D:10-24;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGGGCTAGAGCTTTTTGACTGTAGAGCAAGAGGTCCCTGGTTCAAATCCAGGTTCTCCCT
+Str: >>>>>.>..>>>>.......<<<<..>>>>.........<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+>chr17.trna22-Undet???.pre
+SS_info: D:10-26;A:28-43;T:51-67
+Seq: GGCAGAATGGTGCAGCGGTTCAGCACCCAGGCTCTGCAGCCAGCTGTTGCCTGGGCTCAAATCCCAGCTCTGCCA
+Str: >>>>>>...>>>>.........<<<<.>.>>>......<<<.<.......>>>>>.......<<<<<.<<<<<<.
+
+>chr1.trna128-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:50-64
+Seq: GCCCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTTGAGCCCCACGTTTGGTG
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<.<<<.
+
+>chr2.trna5-IleTAT.pre
+SS_info: D:10-26;A:28-63;T:69-85
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATACAGCAGTACATGCAGAGCAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>..........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1.trna115-113-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTAGTGGTTCGAGCCCACCCGGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<.
+
+>chr2.trna21-SerTGA.pre
+SS_info: D:11-21;A:24-40;T:46-62
+Seq: GAGAAGGTCACAGAGGTTATGGGATTGGCTTGAAACCAGTCTGTGGGGGGTTCGATTCCCTCCTTTTTCA
+Str: >>>>>>>...>.........<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna114-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:50-62
+Seq: GGTTCCATGGTGTAATGGTGACCACTTTGGACTCTGAATACAGTGATCAGAGTTCAAGTCTCACTGGAACCT
+Str: >>>>>>>..>>>..........<<<.>>>.>.......<.<<<......>>>.......<<<..<<<<<<<.
+
+>chr20.trna6-LeuAAG.pre
+SS_info: D:10-26;A:28-44;T:59-73
+Seq: GGTAGGGTGGCCGAGCGGTCTAAGGCACTGTATTAAGACTCCAGTCTCTTCAGAGGCATGGGTTTGAATCCCACTGCTGCCA
+Str: >>>>>.>..>>>...........<<<.>>>.>.......<.<<<.>>>>..<<<<...>>>>.......<<<<.<.<<<<<.
+
+>chr17.trna42-LeuTAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna11-ProAGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGATGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna18-ArgCCT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna12-ProTGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGGTTTGGGTCCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna125-ThrCGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGACTCCCAGTGGGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna11-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCT
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.
+
+>chr1.trna7-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGATTGGTGGTTCGAGCCCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna13-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGCGGTTATCACATTCGCCTCACACGCGAAAGGTCCCCGGTTCGATCCCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna165-28-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTCAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr1-1.trna95-11-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTCGAGCCCACCCAGGGATG
+Str: >>>>>>>..>>>>.........<<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna84-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGGCTTTGAATCCAGCAATCCGAGTTCGAATCTTGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr15-14.trna2-13-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna59-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna1-MetCAT.pre
+SS_info: D:10-24;A:26-45;T:51-67
+Seq: AGCAGAGTGGTGCAGTGGAAGCATACCTATGGGCCCATAACCCAGAGGTTGATGGATGGAAACCATCCTCTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>...>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna51-SerTGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna2-SerCGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTCACGGTGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTTTCCCCGCACAGGTTCGAATCCTGTTCGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr22.trna1-SeCTCA.pre
+SS_info: D:12-27;A:28-46;T:63-77
+Seq: GCTCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGTGACAGAGTGGTTCAATTCCACCTTTGTAGG
+Str: .>>..>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>....<<<<<.>>>>.......<<<<<.<<..<<.
+
+>chr4.trna4-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCATGTGGCCTAAGGGAAAAGACATCTCACTTTGGGTCAGAAGATTGAGGGTTCAAGTCCTTTCATGGTCA
+Str: >>>>>>>..>.>>........<<.<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna31-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:47-60
+Seq: TCCCTGGTAGTCTAGTGGCTAAAGTTTGGCGCTTTCACCGCCGGGACTGGTTGATTCCAGATCAGGGGA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<...>>>>......<<<<.<<<<<<<.
+
+>chr6.trna62-SerGCT.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna26-Undet???.pre
+SS_info: D:10-25;A:27-44;T:50-66
+Seq: GGGGAATTAGCTCAGGCGGTGGAGCGCTCGCTTAGCTATGCGAGAGGTAGCGAGATCGACGCCCGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>........<<<<<.....>>>.>.......<.<<<<<<<<<<.
+
+>chr16.trna12-ArgCCT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTGATGGATAAGGTACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTTCCACCTGGGGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7-7-7-3.trna6-15-13-6-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna167-135-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna3-ArgTCT.pre
+SS_info: D:10-25;A:27-56;T:62-78
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAGATAGTTAGAGAAATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>....................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr5-6-5-5-1-5.trna2-9-6-18-85-10-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna25-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna107-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-62
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGTTCGATCCCCGACACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>.>>.......<<.<.<<<<<<<.
+
+>chr17-17-17-4.trna27-15-26-3-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna136-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCGCGGTTCGAAACCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr6.trna15-TyrGTA.pre
+SS_info: D:10-25;A:27-43;T:66-82
+Seq: CTTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGGTTCATTAAACTAAGGCATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna18-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGGATGCTTTGCATGTATGAGACTTTGGGTTGGATCCCCAGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna52-ArgTCT.pre
+SS_info: D:10-25;A:27-43;T:63-79
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAGCCTAAATCAAGAGATTCAAAGGTTGCGGGTTCGAGTCCCTCCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.....................<<<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr6.trna141-LeuCAA.pre
+SS_info: D:10-26;A:28-67;T:83-99
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTGCTACTTCCCAGGTTTGGGGCTTCTGGTCTCCGCATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>..............................<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna18-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAAATCAAGAGGTCCCTGATTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+>chr6.trna58-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: TTTTCTGTAGTGTAGTTGTTAACACGTTCGCCTCACACGCTTAAAGTTCTCTGGTTGGATACCAGATGGAAATG
+Str: .>>>>>>..>>>>........<<<<.>..>>.......<<..<......>>>>>.......<<<<<<<<<<<..
+
+>chr7.trna10-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCTCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna59-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGAAA
+Str: >.>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<.<.
+
+>chr1.trna136-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna19-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGTTACTCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<.
+
+>chr6.trna95-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGCGGTAGAGCGCTCCCTTAGCATGCGAGAGGTAGCGGGATCGACGCCCCCATTCTCTA
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr6.trna144-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTGAGTGTCCCCGTCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna4-ThrTGT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCCTATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna21-ArgCCT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna5-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTTAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCAATTCCCCGACGGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna133-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATTATGTTCGCCTCACACGCGAAAAGTCCCCGGTTCGAAATCAGGCGGGAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.
+
+>chr6.trna20-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCACGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna106-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAGATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna29-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAAGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna3-ProTGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGTGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna10-GlyTCC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTAAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna7-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: ACCTGGGTAGCTTAGTTGGTAGAGCATTGGACTTTTAATTTGAGGGCCCAGGTTTCAAGTCCCTGTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+>chr11.trna1-LeuCAA.pre
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCCTCCTTAGTGCAGTAGGTAGCGCATCAGTCTCAAAATCTGAATGGTCCTGAGTTCAAGCCTCAGAGGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<......>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna60-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTTCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGAGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna6-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CTGCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTCGTGCCCCATGTTGGGTG
+Str: .>.>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<..
+
+>chr7.trna16-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCC
+Str: >>>>.>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr1.trna94-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCTGCAGCTCGAGTTCGATTCCTGGTCAGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<.<....>>>.>.......<.<<<<<<<<<<.
+
+>chr6.trna139-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCTGGATCAAAACCAGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1.trna4-133-GlyCCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTCCCACGCGGGAGACCCGGGTTCAATTCCCGGCCAATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna9-ArgTCT.pre
+SS_info: D:10-25;A:27-55;T:61-77
+Seq: GGCTCCGTGGCGCAATGGATAGCGCATTGGACTTCTAGAGGCTGAAGGCATTCAAAGGTTCCGGGTTCGAGTCCCGGCGGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>...................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr10-1-13-1-19-17.trna4-26-7-83-1-31-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19-6-6-11-13-12.trna14-109-96-15-1-11-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna4-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTCCGTGGTTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna18-TyrGTA.pre
+SS_info: D:10-25;A:27-64;T:70-86
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATTGTATAGACATTTGCGGACATCCTTAGGTCGCTGGTTCGATTCCAGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>............................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna63-IleTAT.pre
+SS_info: D:10-26;A:28-64;T:70-86
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAAGACAGTGCACCTGTGAGCAATGCCGAGGTTGTGAGTTCAAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna72-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCAAAATTGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCACCA
+Str: >...>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<...<.
+
+>chr1.trna12-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTTGAGCCCACCCAGGGATG
+Str: >>>>>>>..>>>>.........<<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr8-2.trna6-3-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-3-6-6.trna156-11-138-36-ArgACG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCTAGGTTCGACTCCTGGCTGGCTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna83-LeuTAA.pre
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCAGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACATATGTCCGCGTGGGTTCGAACCCCACTCCTGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna4-ProAGG.pre
+SS_info: D:10-24;A:26-58;T:71-87
+Seq: GGCTCGTTGGTCTAGGGGTGTGGTTCTCGCTTAGGGACCACAGGGACAAGCCCGGGAGACCCAAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>.>.......................<.<<<.>.>..<.<...>>>>>.......<<<<<<<<<<<<.
+
+>chr21.trna1-SupTTA.pre
+SS_info: D:11-24;A:27-43;T:48-62
+Seq: GGCAGTGACATGTAATGGTTATGAGGGTGGACTTTAACCACACTGCCTAGGTTCAAATCCTGACTCTGTCA
+Str: >>>>>.>...>............<..>>>...........<<<....>>>>.......<<<<.<.<<<<<.
+
+>chr11.trna19-TrpCCA.pre
+SS_info: D:12-27;A:29-45;T:50-66
+Seq: GGAAGGATGGGGCCAAGCTGGAAAGCCTGTGGGCTCCACAGTCATGTGCCTGGGTTCAATTCCCAGTTCTGCAT
+Str: .>.>>>>....>.>..........<.<.>>>>.........<<<<....>>>>>.......<<<<<<<<<.<..
+
+>chr1.trna2-GlyCCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCCTTGGTGGTGCAGTGGTAGAATTCTCGCCTCCCACGTGGGAGACCCGGGTTCAATTCCCGGCCAATGCA
+Str: >>.>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<.
+
+>chr11.trna11-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna94-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAGCGGTAGAGCGCCTGCTTAGCATGCAAGAGGTAGCAGGATCGATGCCTGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-6-5-5-16.trna119-13-9-11-7-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-15-6-17-6.trna49-7-1-3-99-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna89-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGTGGTTCGAACCCACCCAGAGGCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna4-TyrGTA.pre
+SS_info: D:10-25;A:27-43;T:69-85
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGCTACTTCCTCAGCAGGAGACATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna2-ArgCCT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCGGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCCGGGGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna104-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGGTTCGATCCCCGACACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna63-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCATAGTGTACTGGTTATCACATTCACCTAACACGCGAAAGGTCCTTGGTTTGAAACCAGGCAGAAACA
+Str: >>>>>....>>>..........<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<..<<<<<.
+
+>chr15-17-6.trna10-7-123-SerGCT.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna64-GluTTC.pre
+SS_info: D:9-22;A:25-41;T:46-62
+Seq: CCCTGTGGTCTAGTGGTTAGGAGTTGGTGCTTTCGTCATGACAGCCCAGGTTCAATTCCTGGTTAGAGA
+Str: >.>>>...>>>........<<<..>.>>>.......<<<.<....>>>>>.......<<<<<.<<<.<.
+
+>chr16.trna21-GlnCTG.pre
+SS_info: D:10-25;A:28-42;T:49-66
+Seq: GGCAGTATGGTAGAGTGGTTAAGATCATGAACTCTGAAGTCAGAGATACTTGAATTTGAATGCTGGTTCTGTCA
+Str: >>>>>.>..>>............<<..>>>.........<<<......>>.>..........<.<<<.<<<<<.
+
+>chr18.trna1-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCGGGTGGTGTAGTGGATGGGATTTGGCGCTCTCACCACCATGGCCCGGATTTGATTCCCGGTCAGGGAA
+Str: .>>>.>>..>>.>........<.<<.>>>.>.......<.<<<....>>>>.........<<<<<<.<<<..
+
+>chr2.trna6-GluTTC.pre
+SS_info: D:8-23;A:26-40;T:46-62
+Seq: GCCTGTGGTCTAGTGGTTAGAATTCAGTGTTTTCAGTGCTCTAGTCCAGGTTCAATTCCTGGTCAGGGA
+Str: .>>>>..>>.>........<.<<..>>>>.......<<<<.....>>>>>.......<<<<<.<<<<..
+
+>chr6-6-6.trna91-19-159-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr3.trna4-HisGTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCAGTGACTGTATAGTGGTTAGCACTCTGTGTTGTGGCCACAGCAACCATGGTTCAAATCTGAGTCATGACA
+Str: >..>>>>..>>.>........<.<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<..<.
+
+>chr6.trna79-GlnTTG.pre
+SS_info: D:11-25;A:28-42;T:49-65
+Seq: GTGCAGAGTAGTACAGTGGTTAAACCATGGTCTTTGGAGCCAGACTGCCTGGGGTCGGATCCCAGCTCTCACA
+Str: >>>.>>>>..>>...........<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna2-LeuTAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGTGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCACTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr5.trna22-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCATCAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACTGGGGTTCGATTCCCTGAGGAGGAG
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<.<<<<<.
+
+>chr6.trna153-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-gl000192-random-1.trna1-20-AsnATT.pre
+SS_info: D:10-26;A:28-44;T:51-65
+Seq: GTCTCTGTGGCGCAATCGGTCAGAGCGTTCGGCTATTAACCGAACGGTGAGTAGTTCAAGACCACCCAGGGACG
+Str: >>>>>>>..>>.>.........<.<<.>>>>>.......<<<<<......>>.>.......<.<<.<<<<<<<.
+
+>chr6.trna151-ThrCGT.pre
+SS_info: D:10-24;A:26-42;T:49-63
+Seq: GGCAGAGTGGTGCAGCGGAAGCGTGCTGGGCCCGTAACCCAGAGGTCAATGGATCGAAGCCATCCTTGGCTA
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<.<<<.
+
+>chr12.trna7-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:47-63
+Seq: TCCTTGTTAGTATAGTGGTGAGTGTTTCTGCCTGTCATGTGGAGACTGGAGTTTGAGTCCCCAACAGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<...>>>.>.......<.<<<<<<<<<<.
+
+>chr6-8-6-17-6-6.trna44-11-46-35-5-47-SerAGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1-1-1-1.trna122-24-10-123-30-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTTGACTGTTAACTGAAAGGTTGGTGGTGCAAGCCCATCCAGGGATG
+Str: >>>>>>>..>>>>.........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna16-TyrGTA.pre
+SS_info: D:10-25;A:27-64;T:70-86
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATTGTACAGACATTTGCGGACATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>............................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna55-IleTAT.pre
+SS_info: D:10-26;A:28-64;T:70-86
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATACAACAGTATATGTGCGGGTGATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna163-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCTAAGGTCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna101-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: ATCTCCGTGGAGCAATTGGTTAGCGCGTTCGGCTGTTAACCGGAAAGTTGGTGGTTCGAGCCTACCCAGGGACG
+Str: .>>>>.>..>.>>.........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<..
+
+>chr6.trna53-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: ACCTGGGTAGCTCAGTAGGTAGAACATCAGACTTTTAATCTGAGGGTCTAGGGTTCAAGTCCCTGTCCAGGCG
+Str: .>>>>>>..>.>>........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<..
+
+>chr1-1-1-1-1-1.trna76-45-79-117-70-73-GlyTCC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTGAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna110-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna25-SeCTCA.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GACCGTGTGGCCTTAATGGATAAGGTGTCTGACTTCAGATCAGAAGATTGAGGGTTTGAGTCCCTTTGTGGTCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna146-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAGTCTCGGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna55-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGAGAGCTCAGTGGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCTCGTTCGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr6.trna64-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCAATCCGAGTTCGAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna97-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAAGTTGGTGGTTCGAACACACCCAGAGGCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+>chr1-1.trna134-84-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna17-TyrGTA.pre
+SS_info: D:10-25;A:27-64;T:70-86
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGACTGCGGAAACGTTTGTGGACATCCTTAGGTCGCTGGTTCAATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>............................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1.trna107-108-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCATTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna5-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:65-81
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGTACTTAATGTGTGGTCATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna5-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCAGCTAGCTCAGTCGGTAGAGCATAAGACTCTTAATCTCAGGGTTGTGGATTCGTGCCCCATGCTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>.........<<<<<<<<<<<.
+
+>chr6.trna35-SerCGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCAAATCCTGCTCACAGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna7-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAAGTCCTTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna5-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGCATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna127-CysGCA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna68-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCTGGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna3-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr2.trna23-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGACATGGTGTAATAGGTAGAATGGAGAATTTTGAATTCTCAGGGGTAGGTTCAATTCCTATAGTTCTAG
+Str: >>>>>>...>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<.<<<<<<.
+
+>chr6.trna61-MetCAT.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCTAAACCATCCTCTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna34-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCCTGTGGCTTAGCTGGTCAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna28-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna82-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATGGGTGATTCAGTGGTAGAATTTTCACCTGCCATGCAGGAGGTCCAGGTTCATTTCCTGGCCTATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>..>.......<..<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-6-1-1-1-1-1.trna42-7-36-40-67-38-34-LeuCAG.pre
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTCCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1-6-1-1-1-1-6.trna116-87-74-80-71-77-77-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna90-AlaAGC.pre
+SS_info: D:10-27;A:29-45;T:49-65
+Seq: GGGGAATTAGCGCAAGTGGTAGAGTGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1.trna28-112-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1-1-21-1.trna35-37-41-2-39-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCCATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna48-AspGTC.pre
+SS_info: D:11-24;A:27-43;T:49-63
+Seq: TCCTTGTTACTATAGTGGTAAGTATCTCTGCCTGTCATGCATGAGAGAGGGGGTCGATTCCCTGACGGGGAG
+Str: >>>>>>>...>>>........<<<..>.>>>.......<<<.<.....>>>>.......<<<<.<<<<<<<.
+
+>chr6.trna152-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCTTCTGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna113-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCACATGCTTTGCATGTGTGAGGCCCCGGGTTCGATCCCCGGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna86-ArgTCT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATGGACGAGCGCGCTGGACTTCTAATCCAGAGGTTCCGGGTTCGAGTCCCGGCAGAGATG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-16-7-14-14-6-16-11.trna65-9-2-22-23-12-29-9-ProAGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna8-SerGCT.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTTTGCACGCGTGGGTTCGAATCCCATCCTCGTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr18.trna4-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACGAGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTTGAGCCCCATGTTGGGCA
+Str: >.>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<.<.
+
+>chr11.trna5-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCGGGGTTCAAGTCCCTGTTCGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna74-LeuCAA.pre
+SS_info: D:10-26;A:28-66;T:81-97
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGCTTGGCTTCCTCGTGTTGAGGATTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.............................<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr17-1-16.trna37-52-6-ProCGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna19-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16-1-16-2-6-17.trna19-68-24-19-128-5-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCAATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr2.trna2-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:65-81
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGTGGATAGGGCGTGGCAATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna80-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGCGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr14.trna14-GluTTC.pre
+SS_info: D:9-24;A:26-42;T:47-63
+Seq: ACCCTGTGGTCTAGTGGCTAAGACTTTGTGCTTTCATTGCTGCATCCTAGGTTCAATTCCCAGTCAGGGAA
+Str: .>>>>>..>>>>........<<<<.>.>>>.......<<<.<....>>.>>.......<<.<<.<<<<<..
+
+>chr1.trna46-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TACTCGTTAGTATAGTGGTGCGTATCCCCGTCTGTCACGCGGGAGAGCGGGGTTCGCTCTCCCGACGGGGAG
+Str: >.>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<.<.
+
+>chr14-5-6-16.trna1-7-98-16-LeuAAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCGCTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna56-ThrTGT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGTGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCGATCCTCGCTGGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-6-1-17-11.trna54-76-62-2-14-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna21-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGCTGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCAAGCCTCAGAGAGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna22-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCC
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna6-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: TCCTCGTTAGTATGGTGGTGAGTATCCCTGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCAACGGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>.......<<<<.<<<<<<<.
+
+>chr1.trna49-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: GCGTTGGTGGTGTAGTGGTGAGCACAGCTGCCTTTCAAGCAGTTAACGCGGGTTCGATTCCCGGGTAACGAA
+Str: .>>>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>>>.......<<<<..<<<<<..
+
+>chr12.trna1-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:50-64
+Seq: ACCCAGATAGCTCAGTCAGTAGAGCATCAGACTTTTAATCTGAGGGTCCAAGGTTCATGTCCCTTTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<......>.>>.......<<.<.<<<<<<<.
+
+>chr1.trna124-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGCGGTTCGAACCCACCCAGAGGCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.
+
+>chr7.trna8-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCACT
+Str: >.>.>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<.<.
+
+>chr6.trna31-SerGCT.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCCTCGTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr10.trna2-SerTGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCAGCGATGGCCGAGTGGTTAAGGCGTTGGACTTGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAACCCTGCTCGCTGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1-15-15-1-1-9-1-15-6.trna21-8-1-16-111-7-118-9-33-HisGTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCCGTGATCGTATAGTGGTTAGTACTCTGCGTTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna99-ValCAC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCACTGGTGGTTCAGTGGTAGAATTCTCGCCTCACACGCGGGACACCCGGGTTCAATTCCCGGTCAAGGCA
+Str: >>..>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<..<<.
+
+>chr17-19-17.trna8-4-36-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCGCCGTGGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna130-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCTGTGGTGTAGTGGTTATCATGTTCGCCTCACACGAGAAAAGTCCCTGATTCGAGACTGGGTGGGAACG
+Str: >>>>>>>..>>>..........<<<.>>>.>.......<.<<<.....>>>>.........<<<<<<<<<<<.
+
+>chr1.trna82-GlyTCC.pre
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: GCGTTGGTGGTATAGTGGTGAGCATAGTTGCCTTCCAAGCAGTTGACCCGGGCTCGATTCCCGCCCAACGCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>.......<<<<.<<<<<<<.
+
+>chr6.trna37-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTTGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAACA
+Str: >>>>>.>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+>chr9.trna8-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGATATGGTTTAATAGGTAGCATGGAGAATTTTGGAGTCTCAGGGATAGGTTCAATTCCTATAGTTCCAG
+Str: >.>>>>...>>.>........<.<<.>>>>.........<<<<....>>>>>.......<<<<<.<<<<.<.
+
+>chr6-3-5-5-5.trna132-2-5-4-12-ValAAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr10.trna6-ValTAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGTGGTTATCACATCTGCTTTACACGCAGAAGGTCCTGGGTTCAAGCCCCAGTGGAACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna43-SerGCT.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCTTCGTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna40-ValTAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTGGTGTAGTGGTTATCACATTCGCCTTACACGCGAAAGGTCCTCGGGTCGAAACCGAGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr13-15.trna3-11-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCACATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGCGGCCCGGGTTCGACTCCCGGTGTGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna11-SupCTA.pre
+SS_info: D:10-26;A:28-41;T:50-66
+Seq: GGCAGTGACGCCTACTGGTTTAGAGCACAGATTCTAGATCGAGACATTCCTGGGTTCAAATCCCAGCACTGTTG
+Str: >>>>>>>..>>.>.........<.<<.>.>>.......<<<........>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna6-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTAGAGACCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>..>>.......<<..<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna41-SerCGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAATCCTGCTCACAGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr2.trna4-LeuAAG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCTCAATGGATAATGCGTCTGACTAAGAATCAGAAGATTCCAGCCTTGACTCCTGGCTGGCTCA
+Str: >>>>>>>..>>............<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+>chr6.trna100-LeuCAA.pre
+SS_info: D:10-26;A:28-67;T:82-98
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGCTAAGCTTCCTCCGCGGTGGGGATTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>..............................<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna120-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTAGCATGCATGAGGTCCCGGGTTCGATCCCCAGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr1.trna66-LeuCAA.pre
+SS_info: D:10-27;A:29-45;T:60-76
+Seq: GTCAGGATGGCCGAGCAGTCTTAAGGCGCTGCGTTCAAATCGCACCCTCCGCTGGAGGCGTGGGTTCGAATCCCACTTTTGACA
+Str: >>>>>>>..>>>............<<<..>>>>.......<<<<..>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna43-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATAGGTGGTTCAGTGGTAGAATTCTTGCCTGCCACGCAGGAGGCCCAGGTTTGATTCCTGGCCCATGCA
+Str: >>>>.>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<.<<<<.
+
+>chr13-2.trna5-20-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCATATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGTGGCCCGGGTTCGACTCCCGGTATGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna10-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCGTTAGCGCAGTAGGTAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGATCCTCACACGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna71-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAACATCAGACTTTTAATCTGACGGTGCAGGGTTCAAGTCCCTGTTCAGGCG
+Str: >>>>>>>..>.>>........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna16-ValTAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGCGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna14-TyrGTA.pre
+SS_info: D:10-25;A:27-61;T:67-83
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGTTGGCTGTGTCCTTAGACATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr13.trna4-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCTGGTGGTCTAGTGCTTAGGATTCGGTGCTCTCACCGCTGCTGCCTGCGTTCGATTCCCGGTCAGGGAA
+Str: .>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>.>.......<.<<<<<<<<<..
+
+>chr17.trna30-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTAGGGCTCAGGGATAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCGAATCTAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.
+
+>chr6-6.trna24-161-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAGGCGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGACGCCCGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna124-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-16-6.trna73-1-114-ArgCCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGCGTGGCCTAATGGATAAGGCGTCTGATTCCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna166-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna134-LeuTAA.pre
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCGGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGGCTGGTGCCCGCGTGGGTTCGAACCCCACTCTCGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna66-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16-16-16-14-5.trna3-28-8-6-14-ProTGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna5-GlnCTG.pre
+SS_info: D:12-21;A:27-41;T:49-65
+Seq: GAGCTGTAGCATAGTGATTAGGGACATGGACTCTGGAGCCAAATCTGCCTGGGTTCTAGTCCCAGCTGTCTCA
+Str: >>>>.>...>.>........<.<...>>>.........<<<.......>>>>>.......<<<<<<.<.<<<.
+
+>chr6-6.trna93-22-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna3-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACCCTGGACTCTGAATCCAGCAACCAGAGTTCCAGTCTCAGCGTGGACCT
+Str: >>>>>>...>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<.<.<<<<<.
+
+>chr4.trna2-LeuTAA.pre
+SS_info: D:10-27;A:29-45;T:51-67
+Seq: GTTAAGATGGCAGAGCCTGGTAATTGCATAAAACTTAAAATTTTATAATCAGAGGTTCAACTCCTCTTCTTAACA
+Str: >>>>>>>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr2.trna13-AlaCGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCGCGCTTCGCATGTGTGAGGTCCCGGGTTCAATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna75-97-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCCTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAACCTCAGAGGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna14-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCTGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna70-AlaCGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTCGCATGTACGAGGCCCCGGGTTCGACCCCCGGCTCCTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+>chr6.trna69-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCCGTAGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGACTCCCAGCGGGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna175-SerGCT.pre
+SS_info: D:12-27;A:29-45;T:60-76
+Seq: GGAGAGGCCTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCG
+Str: >>.>>>>....>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<.<<.
+
+>chr3.trna7-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna8-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCACGTATGAGGCCCCGGGTTCAATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna119-AlaCGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna30-ProCGG.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGTGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna2-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGTGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAAAAGATTGCAGGTTTGAGTTCTGCCACGGTCG
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna19-TyrGTA.pre
+SS_info: D:10-25;A:27-64;T:70-86
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGCCTGTAGAAACATTTGTGGACATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>............................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna172-SerTGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna20-ThrTGT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna32-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCTGTAGTATGGTGGTTATCACGTTAGTCTCACACGTGAAAGGTCCCTGGTTCGAAACCAGGTGGAAACA
+Str: >>>>>>>..>>............<<.>>.>>.......<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna65-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGTACGAGGTCCCGGGTTCAATCCCCGGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna143-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr2.trna14-TyrATA.pre
+SS_info: D:10-25;A:27-43;T:69-85
+Seq: CCTTCAATAGTTCAGCTGGTAGAGCAGAGGACTATAGCTACTTCCTCAGTAGGAGACGTCCTTAGGTTGCTGGTTCGATTCCAGCTTGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna56-PheGAA.pre
+SS_info: D:10-25;A:28-45;T:51-68
+Seq: GCCGAAATAGCTCAATTGGGAGAGTGTTAGACTGAAGATCTTCTGCAGGTCTCTGGTTCAATTCCGGGTTTCGACA
+Str: >.>>>>>..>>>>........<<<<..>>>>..........<<<<......>>>>>.......<<<<<<<<<<.<.
+
+>chr1.trna22-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCCATCTGAGTTCGAGTCTCTGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<<<<.
+
+>chr1.trna98-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACTGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr5.trna20-LeuCAG.pre
+SS_info: D:11-22;A:25-45;T:54-70
+Seq: GGCAGTGGAGTTTAGTGGTTAAGGACCTGCTCAGACATCACAGGTAGGTAGATCTGGGTTCAAACCCTAGCCCTGGCA
+Str: >.>>>.>...>>........<<..>>>>>...........<<<<<........>>>>>.......<<<<<<.<<<.<.
+
+>chr7.trna17-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTTAGGGGTAGAGCATTTGACTGCAGATCAAAAGGTCCCTGGTTCAAATCCAGGTGCCCCTT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna29-GluCTC.pre
+SS_info: D:10-25;A:27-43;T:47-60
+Seq: TCCCTGGTAGTCTAGTGGCTAAAGTTTGGCGCTCTCACCGCCGGGACTGGTTGATTCCAGATCAGGGGA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<...>>>>......<<<<.<<<<<<<.
+
+>chr6.trna18-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCAATGCCCACATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna14-ThrCGT.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCGCGGGTTCGAACCCCGTCCGTGCCT
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna3-GluCTC.pre
+SS_info: D:9-24;A:26-42;T:47-63
+Seq: TCCTTGATGTCTAGTGGTTAGGATTTGGTGCTCTCACTGCAGCAGCCTGGGTTCATTTCTCAGTCAGGGAA
+Str: >>>>>>>.>>>>........<<<<.>.>>>.......<<<.<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna140-LeuCAA.pre
+SS_info: D:10-26;A:28-68;T:84-100
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGCTTACTGCTTCCTGTGTTCGGGTCTTCTGGTCTCCGTATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>...............................<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna32-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACCCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna12-TrpCCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAATGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAGTCACGTCGGGGTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna14-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGACTTGGTGTAATGGGTAGCACAGAGAATTTTGGATTCTCAGGGGTGGGTTCAATTCCTTTCGTCCTAG
+Str: >>>>>>...>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<.<<<<<<.
+
+>chr6.trna145-SerAGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGTGATGGACTAGAAACCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>.........<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna160-23-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTGGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGCAGGATCGACGCCTGCACTCTCCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+>chr6.trna108-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCGATCCCCAGTACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna25-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAGCGGTAGGGTGCCTGCTTAGCATGCAAGAGGTAGCAGGATCGACGCCTGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna21-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTTAGCGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna8-SeCTCA.pre
+SS_info: D:12-27;A:28-46;T:63-77
+Seq: GCCCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGCGACAGAGTGGTTCAATTCCACCTTTCGGGC
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>....<<<<<.>>>>.......<<<<<.<<<<<<<
+
+>chr6.trna103-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACCGAAGATCTTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6-6.trna27-162-164-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGCGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-6-1-12-6-17-12-12-1-1-1.trna75-48-69-4-45-38-10-12-81-72-78-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna127-ThrTGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTTGTAAACAGGAGATCCTGGGTTCGAATCCCAGTAGAGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna67-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCTGGGTTCAATCCCCAGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna81-LeuTAA.pre
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACTCATTTGGCTGAGTGGTTAAGGCATTGGACTTAAGATCCAATGGAGTAGTGGCTGTGTGGGTTTAAACCCCACTACTGGTA
+Str: >>>..>...>>>..........<<<.>>>>>.......<<<<<..>..>...<..<..>>>>>.......<<<<<.<..<<<.
+
+>chr6-6-6.trna174-130-173-GlnTTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCT
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<.
+
+>chr11.trna13-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna89-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCCCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna87-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-63
+Seq: GGGGGTGTAGATCAGTGGTAGGGCGCACGCTTAGCATGCATGAGGCCCTGGGTCAATCCCCAGCACCTCCA
+Str: >>>>>>>..>.>>.......<<.<.>>.>>.......<<.<<.....>>>>>......<<<<<<<<<<<<.
+
+>chr17.trna24-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:51-65
+Seq: AGCACCATGGCTTAGCTGGTTAAAGCACCTGTCTAGTAAACAGGAGATCCTGAGTTTCAATTCCAATGGTGCCT
+Str: .>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<......>>...........<<.<<<<<<..
+
+>chr6.trna16-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:65-81
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGGCTCATTAAGCAAGGTATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna21-ThrTGT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCGCTGGTCTTGTAAACCAGGGGTCGCGAGTTCAATTCTCGCTGGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna38-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTGGTTAGTTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGTGGGTTCGATCCCCATATCGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna57-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTCGGCTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr20.trna1-GlnCTG.pre
+SS_info: D:10-27;A:29-46;T:52-70
+Seq: GGCAGTGTAGCCCAGAGGTTCAAGGGCATTCGCTCTGGTATCAGAAGGGTCTGGGTTCAAATCCCTTGTGCACTGCTT
+Str: >>>>>>>..>>>>..........<<<<.>>>>.........<.<<<.....>>>>.......<<<....<<<<<<<<.
+
+>chr6-14-6-6-17.trna154-10-11-158-9-IleAAT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+>chr17.trna13-GlyCCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAATGGTAGAATTCTCGCCTCCCACGCAGGAGACCCAGGTTCGATTCCTGGCCAATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>.>>.......<<.<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr3.trna5-LeuAAG.pre
+SS_info: D:10-24;A:28-44;T:58-74
+Seq: GGTAGCATGGCTGAGTGGTCTAAGATTCTGAATTAAGTCTCCAGTCTCTTTGGGGGCGTGGTTTTCAATCCCACCGCTGCTA
+Str: >>>>>>...>.>...........<.<.>>>.>.......<.<<<.>>>....<<<..>>>>.........<<<<.<<<<<<.
+
+>chr19.trna10-IleTAT.pre
+SS_info: D:10-26;A:28-63;T:69-85
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATATGACAGTGCGAGCGGAGCAATGCCGAGGTTGTGAGTTCGATCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>..........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna4-LeuTAA.pre
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCAGAATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGATTCATATCCGCGTGGGTTCGAACCCCACTTCTGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna23-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGTTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna18-GlyGCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCATGCGGGCGGCCGGGCTTCGATTCCTGGCCAATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>.>>.........<<.<<<<<<<<.
+
+>chr6.trna117-AlaCGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGATCAGTGGTAGAGCGCATGCTTCGCATGTACGAGGTCCCTGGTTCAATCCCTGGTACCTCCA
+Str: >>>>>>>..>.>>.......<<.<.>.>>>.......<<<.<.....>>.>>.......<<.<<<<<<<<<.
+
+>chr6.trna92-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGTGCAGCTGGCAGCGCGTCAGTTTCATAATCTGAAAGTCCTGAGTTCAAGCCTCAGAGAGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna54-ThrCGT.pre
+SS_info: D:10-25;A:27-44;T:50-66
+Seq: GGCCCTGTAGCTCAGCGGTTGGAGCGCTGGTCTCGTAAACCTAGGGGTCGTGAGTTCAAATCTCACCAGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna5-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:65-81
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGGCGCGCGCCCGTGGCCATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna3-TrpCCA.pre
+SS_info: D:12-27;A:29-69;T:75-91
+Seq: GGCAGAGGAGGGTGCAGTTGGCAGCCTGTCCAAGTCCAGCACGGTTGGAGCACAGGATTTAGAATGGGATGGTCCTGGGTTCAAACCCCAGCTGCGCCC
+Str: >>>..>>....>.>>........<<.<.>>>.>...............................<.<<<.....>>>>>.......<<<<<<<..<<<.
+
+>chr11.trna10-SerAGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: TGAGTTGTAGCTGAGTGGTTAAGGCAACGAGCTAGAAATTCGTTGGTTTCTCTCTGTGCAGGTTTGAATCCTGCTAATTATG
+Str: ..>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>.......<<..>>>>>.......<<<<<<<<<<...
+
+>chr6.trna105-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGCGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCAATCCCCAATACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<.
+
+>chr1.trna25-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGTAGTCGGTTAGCGCGTTCGGCTGTTAACCGAAAAGTTGGTGGTTCGAGCCCACCCAGGAACG
+Str: >>.>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<<.
+
+>chr6.trna126-LeuAAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGTGGTCTAAGACGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTTGAATCCCACCGCTGCCA
+Str: >>>>>>>..>.>...........<.<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna103-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATGGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCATCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna1-TrpCCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGCAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1-1.trna19-15-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTGAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna2-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: AACCGAATAGCTTAGTTGATGAAGCGTGAGACTCTTAATCTCAGGGTAGTGGGTTCAAGCCCCACATTGGACA
+Str: ..>>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<...
+
+>chr6.trna155-LeuTAA.pre
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCGGGATGGCTGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACAGGTGTCCGCGTGGGTTCGAGCCCCACTCCCGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>>..<<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna10-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna131-GlnCTG.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCCCCATGGTGTAATGGTCAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCC
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<.
+
+>chr6.trna115-ValAAC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGTATGCTTAACATTCATGAGGCTCTGGGTTCGATCCCCAGCACTTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna10-AlaCGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr2-16.trna27-34-GlyCCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCGCCGCTGGTGTAGTGGTATCATGCAAGATTCCCATTCTTGCGACCCGGGTTCGATTCCCGGGCGGCGCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna147-SerAGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr5-5-5.trna19-3-16-LeuAAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna5-GluTTC.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGCCAGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr8.trna12-TyrGTA.pre
+SS_info: D:10-25;A:27-59;T:64-80
+Seq: TCTTCAATAGCTCAGCTGGTAGAGCGGAGGACTGTAGGTGCACGCCCGTGGCCATTCTTAGGTGCTGGTTTGATTCCGACTTGGAGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<....>.>>>.......<<<.<<<<<<<<.
+
+>chr15.trna4-ArgTCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGCAGGTTCGAGTCCTGCCGCGGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna90-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGTAAAGGTCCCCGGTTCGAAACCGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna101-102-AlaAGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCCGGCACCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna40-ThrAGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCGCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna50-SerAGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCACGCAGGTTCGAATCCTGCCGACTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16-16.trna17-26-LeuCAG.pre
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr3.trna3-AspGTC.pre
+SS_info: D:10-25;A:27-43;T:47-63
+Seq: TTCTTGTTAATATAGTGGTGAGTATTCCCACCTGTCATGCGGGAGACGGGGTTCAATTCCCTGATGGGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<...>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna137-SerCGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGTGTTGGACTCGAAATCCAATGGGGGTTCCCCGCGCAGGTTCAAATCCTGCTCACAGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<..>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna6-TrpCCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGCTGCGTGTTCGAATCACGTCGGGGTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna5-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGCTAGCTCAGTCGGCAAAGCATGAGACTCTTAATCTCAGGGTCGTGGGCTCGAGCTCCATGTTGGGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna22-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCGTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGAGCCTCACACGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna3-ArgCCT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCATCTGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna135-AsnGTT.pre
+SS_info: D:10-26;A:31-41;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTACAGACCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>..>>.......<<..<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna29-IleTAT.pre
+SS_info: D:10-26;A:28-64;T:70-86
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATATGGCAGTATGTGTGCGAGTGATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna131-GlyCCC.pre
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCGTTGGTGGTTTAGTGGTAGAATTCTCGCCTCCCATGCGGGAGACCCGGGTTCAATTCCCGGCCACTGCA
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<.<<<.
+
+>chr6.trna121-ThrCGT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTGTGGCTTAGTTGGCTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCT
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna17-SupTTA.pre
+SS_info: D:10-25;A:27-41;T:47-63
+Seq: GCCCGGATAGTTCAGTTGGTAGAGCATCAGACTTAATCAGAGGGTCCAGGGTTCAAGTCCCTGTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>.>>.....<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna4-ArgTCT.pre
+SS_info: D:10-25;A:27-58;T:64-80
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAGTGACGAATAGAGCAATTCAAAGGTTGTGGGTTCGAATCCCACCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>......................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna78-LeuAAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCAAATCCCACCGCTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6-14-6.trna8-7-6-ArgACG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCCAGGTTCGACTCCTGGCTGGCTCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna30-LysCTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGATAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCGCACGTTGGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>.>.......<.<<<<<<<<<<.
+
+>chr6.trna149-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGGTAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTCCAGGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna20-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr5-12.trna8-13-AlaTGC.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna9-AlaAGC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGTGGGATCGATGCCCGCATTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna27-LeuTAG.pre
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGTGGTCTAAGGCGCTGGATTTAGGCTCCAGTCATTTCGATGGCGTGGGTTCGAATCCCACCGCTGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna47-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGATCCCACCCAGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna20-MetCAT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGTGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr5.trna24-LysCTT.pre
+SS_info: D:11-24;A:27-43;T:49-65
+Seq: GCCCGACTACCTCAGTCGGTGGAGCATGGGACTCTTCATCCCAGGGTTGTGGGTTCGAGCCCCACATTGGGCA
+Str: >>>>>>....>>>........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<.
+
+>chr16.trna23-LysTTT.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-17-6.trna170-6-168-TrpCCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr15.trna3-CysGCA.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGTGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr19.trna3-LysTTT.pre
+SS_info: D:9-24;A:28-40;T:47-63
+Seq: ACCCTGTGGTACAGGGGCTAATATGCTGGGCCTTTACCACTTCAGCCCAGGTTCGATTCCTGGTCAGGGAA
+Str: .>>>>>..>>>..........<<<...>.>.......<.<......>>>>>.......<<<<<.<<<<<..
+
+>chr14.trna8-CysGCA.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna15-ThrCGT.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCACGGGTTCGAACCCCGTCCGTGCCT
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr5.trna13-ThrTGT.pre
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGTCGCGAGTTCAAATCTCGCTGGGGCCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna4-ArgTCT.pre
+SS_info: D:10-25;A:27-61;T:67-83
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAGCTGAGCCTAGTGTGGTCATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna23-ArgCCG.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCCAGTGGCCTAATGGATAAGGCATCAGCCTCCGGAGCTGGGGATTGTGGGTTCGAGTCCCATCTGGGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna148-SerTGA.pre
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGTCGGCTACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna112-PheGAA.pre
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCTGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTTAAAGTTCCCTGGTTCAACCCTGGGTTTCAGCC
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<......>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna13-AsnGTT.pre
+SS_info: D:10-26;A:28-46;T:52-68
+Seq: GTCTCTGTGGCGCCATCGGTTAGTGCCTTCGGCTGTTTGAACCGAAAGGCTGGTGGTTCAAGCCCACCCAGAGATG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.........<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-1-6-17-6-6-6-6.trna2-32-169-20-171-150-142-129-MetCAT.pre
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCGAAACCATCCTCTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna12-SerAGA.pre
+SS_info: D:11-23;A:26-42;T:48-64
+Seq: GGGTGTATGGCTCAGGGGTAGAGAATTTGACTAGAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT
+Str: >>>.>>>...>>>.......<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.
+
+>chr1.trna93-AsnGTT.pre
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: ATCTCCGTGGAGCAATTGGTTAGCGCGTTCGGCCGTTAACCGGAAAGTTGGTGGTTCGAGCCTACCCAGGGACG
+Str: .>>>>.>..>.>>.........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<..
+
+>chr6.trna157-ValCAC.pre
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGGAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTTGAAACCAGGCGGAAACA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.
+
+>chr1.trna58-LeuCAA.pre
+SS_info: D:10-26;A:28-66;T:82-98
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGGTAAGCACCTTGCCTGCGGGCTTTCTGGTCTCCGGATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.............................<<<<<.>>>>>..<<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna30-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGATAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCGCACGTTGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>.>.......<.<<<<<<<<<<....
+
+>chr1-5-5-5-5-6.trna85-10-18-6-2-9-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna13-AlaCGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCGCGCTTCGCATGTGTGAGGTCCCGGGTTCAATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna43-SerGCT.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCTTCGTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr5.trna15-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTCATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr20.trna1-GlnCTG.mat
+SS_info: D:10-27;A:29-46;T:52-70
+Seq: GGCAGTGTAGCCCAGAGGTTCAAGGGCATTCGCTCTGGTATCAGAAGGGTCTGGGTTCAAATCCCTTGTGCACTGCTTCCA
+Str: >>>>>>>..>>>>..........<<<<.>>>>.........<.<<<.....>>>>.......<<<....<<<<<<<<....
+
+>chr6-6-6.trna159-91-19-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna153-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna17-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr14.trna4-ThrTGT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCCTATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna1-LeuCAA.mat
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCCTCCTTAGTGCAGTAGGTAGCGCATCAGTCTCAAAATCTGAATGGTCCTGAGTTCAAGCCTCAGAGGGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<......>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna23-ArgCCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCCAGTGGCCTAATGGATAAGGCATCAGCCTCCGGAGCTGGGGATTGTGGGTTCGAGTCCCATCTGGGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr9-11.trna4-3-ArgTCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna8-SerGCT.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTTTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr3.trna5-LeuAAG.mat
+SS_info: D:10-24;A:28-44;T:58-74
+Seq: GGTAGCATGGCTGAGTGGTCTAAGATTCTGAATTAAGTCTCCAGTCTCTTTGGGGGCGTGGTTTTCAATCCCACCGCTGCTACCA
+Str: >>>>>>...>.>...........<.<.>>>.>.......<.<<<.>>>....<<<..>>>>.........<<<<.<<<<<<....
+
+>chr17.trna12-TrpCCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAATGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAGTCACGTCGGGGTCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna143-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr8.trna12-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCTTCAATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATTCTTAGGTGCTGGTTTGATTCCGACTTGGAGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<<<<....
+
+>chr4-17-17-17.trna3-27-15-26-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna131-GlyCCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCGTTGGTGGTTTAGTGGTAGAATTCTCGCCTCCCATGCGGGAGACCCGGGTTCAATTCCCGGCCACTGCACCA
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<.<<<....
+
+>chr14-14-8-14-8.trna16-5-4-19-5-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna21-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTTAGCGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna3-ProTGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGTGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr3.trna3-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:47-63
+Seq: TTCTTGTTAATATAGTGGTGAGTATTCCCACCTGTCATGCGGGAGACGGGGTTCAATTCCCTGATGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<...>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna20-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr19.trna3-LysTTT.mat
+SS_info: D:9-24;A:28-40;T:47-63
+Seq: ACCCTGTGGTACAGGGGCTAATATGCTGGGCCTTTACCACTTCAGCCCAGGTTCGATTCCTGGTCAGGGAACCA
+Str: .>>>>>..>>>..........<<<...>.>.......<.<......>>>>>.......<<<<<.<<<<<.....
+
+>chr7.trna23-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGTTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna121-ThrCGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTGTGGCTTAGTTGGCTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna87-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-63
+Seq: GGGGGTGTAGATCAGTGGTAGGGCGCACGCTTAGCATGCATGAGGCCCTGGGTCAATCCCCAGCACCTCCACCA
+Str: >>>>>>>..>.>>.......<<.<.>>.>>.......<<.<<.....>>>>>......<<<<<<<<<<<<....
+
+>chr6.trna70-AlaCGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTCGCATGTACGAGGCCCCGGGTTCGACCCCCGGCTCCTCCACCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<....
+
+>chr15.trna4-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGCAGGTTCGAGTCCTGCCGCGGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr12.trna7-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:47-63
+Seq: TCCTTGTTAGTATAGTGGTGAGTGTTTCTGCCTGTCATGTGGAGACTGGAGTTTGAGTCCCCAACAGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<...>>>.>.......<.<<<<<<<<<<....
+
+>chr17-15-6-6-6.trna3-7-49-1-99-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna152-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCTTCTGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAGCACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr5-5-5.trna3-19-16-LeuAAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr3.trna4-HisGTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCAGTGACTGTATAGTGGTTAGCACTCTGTGTTGTGGCCACAGCAACCATGGTTCAAATCTGAGTCATGACACCA
+Str: >..>>>>..>>.>........<.<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<..<....
+
+>chr6.trna115-ValAAC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGTATGCTTAACATTCATGAGGCTCTGGGTTCGATCCCCAGCACTTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr8-14-14-14-8.trna5-5-16-19-4-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna58-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: TTTTCTGTAGTGTAGTTGTTAACACGTTCGCCTCACACGCTTAAAGTTCTCTGGTTGGATACCAGATGGAAATGCCA
+Str: .>>>>>>..>>>>........<<<<.>..>>.......<<..<......>>>>>.......<<<<<<<<<<<.....
+
+>chr19.trna7-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: ACCTGGGTAGCTTAGTTGGTAGAGCATTGGACTTTTAATTTGAGGGCCCAGGTTTCAAGTCCCTGTTTGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<....
+
+>chr2-6-6.trna5-29-55-IleTAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna5-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGCCAGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-1-14-7-16-14-11-16.trna12-65-22-2-9-23-9-29-ProAGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna11-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCTCCA
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<....
+
+>chr5-12.trna8-13-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17-19-10-13-1-1.trna31-1-4-7-26-83-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna21-ThrTGT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCGCTGGTCTTGTAAACCAGGGGTCGCGAGTTCAATTCTCGCTGGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna54-ThrCGT.mat
+SS_info: D:10-25;A:27-44;T:50-66
+Seq: GGCCCTGTAGCTCAGCGGTTGGAGCGCTGGTCTCGTAAACCTAGGGGTCGTGAGTTCAAATCTCACCAGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr19.trna13-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGCGGTTATCACATTCGCCTCACACGCGAAAGGTCCCCGGTTCGATCCCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna12-ProTGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGGTTTGGGTCCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna98-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACTGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna25-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTTGATTCCCGGCCAGTGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna27-LeuTAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGTGGTCTAAGGCGCTGGATTTAGGCTCCAGTCATTTCGATGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna112-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCTGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTTAAAGTTCCCTGGTTCAACCCTGGGTTTCAGCCCCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<......>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna14-TyrATA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCAATAGTTCAGCTGGTAGAGCAGAGGACTATAGGTCCTTAGGTTGCTGGTTCGATTCCAGCTTGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr7.trna16-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCCCCA
+Str: >>>>.>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr1.trna48-AspGTC.mat
+SS_info: D:11-24;A:27-43;T:49-63
+Seq: TCCTTGTTACTATAGTGGTAAGTATCTCTGCCTGTCATGCATGAGAGAGGGGGTCGATTCCCTGACGGGGAGCCA
+Str: >>>>>>>...>>>........<<<..>.>>>.......<<<.<.....>>>>.......<<<<.<<<<<<<....
+
+>chr1.trna63-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCATAGTGTACTGGTTATCACATTCACCTAACACGCGAAAGGTCCTTGGTTTGAAACCAGGCAGAAACACCA
+Str: >>>>>....>>>..........<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<..<<<<<....
+
+>chr6.trna104-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGGTTCGATCCCCGACACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna41-SerCGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAATCCTGCTCACAGCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr5.trna22-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCATCAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACTGGGGTTCGATTCCCTGAGGAGGAGCCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<.<<<<<....
+
+>chr9.trna8-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGATATGGTTTAATAGGTAGCATGGAGAATTTTGGAGTCTCAGGGATAGGTTCAATTCCTATAGTTCCAGCCA
+Str: >.>>>>...>>.>........<.<<.>>>>.........<<<<....>>>>>.......<<<<<.<<<<.<....
+
+>chr6.trna56-PheGAA.mat
+SS_info: D:10-25;A:28-45;T:51-68
+Seq: GCCGAAATAGCTCAATTGGGAGAGTGTTAGACTGAAGATCTTCTGCAGGTCTCTGGTTCAATTCCGGGTTTCGACACCA
+Str: >.>>>>>..>>>>........<<<<..>>>>..........<<<<......>>>>>.......<<<<<<<<<<.<....
+
+>chr3.trna7-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna72-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCAAAATTGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCACCACCA
+Str: >...>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<...<....
+
+>chr6.trna15-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CTTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr13.trna4-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCTGGTGGTCTAGTGCTTAGGATTCGGTGCTCTCACCGCTGCTGCCTGCGTTCGATTCCCGGTCAGGGAACCA
+Str: .>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>.>.......<.<<<<<<<<<.....
+
+>chr19.trna10-IleTAT.imat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGATCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna5-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGCTAGCTCAGTCGGCAAAGCATGAGACTCTTAATCTCAGGGTCGTGGGCTCGAGCTCCATGTTGGGCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16-5-14-6.trna16-7-1-98-LeuAAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna90-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGTAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr15-14.trna2-13-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna10-SerAGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: TGAGTTGTAGCTGAGTGGTTAAGGCAACGAGCTAGAAATTCGTTGGTTTCTCTCTGTGCAGGTTTGAATCCTGCTAATTATGCCA
+Str: ..>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>.......<<..>>>>>.......<<<<<<<<<<......
+
+>chr7.trna25-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna17-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCAATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna25-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGTAGTCGGTTAGCGCGTTCGGCTGTTAACCGAAAAGTTGGTGGTTCGAGCCCACCCAGGAACGCCA
+Str: >>.>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<<....
+
+>chr6.trna105-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGCGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCAATCCCCAATACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<....
+
+>chr3-5-5-5-6.trna2-5-4-12-132-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna26-Undet???.mat
+SS_info: D:10-25;A:27-44;T:50-66
+Seq: GGGGAATTAGCTCAGGCGGTGGAGCGCTCGCTTAGCTATGCGAGAGGTAGCGAGATCGACGCCCGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>........<<<<<.....>>>.>.......<.<<<<<<<<<<....
+
+>chr1.trna59-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGAAACCA
+Str: >.>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<.<....
+
+>chr19.trna2-GlyTCC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTTAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna23-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGACATGGTGTAATAGGTAGAATGGAGAATTTTGAATTCTCAGGGGTAGGTTCAATTCCTATAGTTCTAGCCA
+Str: >>>>>>...>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<.<<<<<<....
+
+>chr6-11-1-1-17.trna76-14-54-62-2-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna29-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAAGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1.trna4-133-GlyCCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTCCCACGCGGGAGACCCGGGTTCAATTCCCGGCCAATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr8-2.trna6-3-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATCCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1.trna107-108-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCATTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna46-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TACTCGTTAGTATAGTGGTGCGTATCCCCGTCTGTCACGCGGGAGAGCGGGGTTCGCTCTCCCGACGGGGAGCCA
+Str: >.>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<.<....
+
+>chr1.trna29-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:47-60
+Seq: TCCCTGGTAGTCTAGTGGCTAAAGTTTGGCGCTCTCACCGCCGGGACTGGTTGATTCCAGATCAGGGGACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<...>>>>......<<<<.<<<<<<<....
+
+>chr1-1-1-1-1-1.trna117-45-70-79-73-76-GlyTCC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTGAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna50-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTTTCTGTAGCGCGATCGGTTAGCGCCTTCGGCTGTTAAACGAAAGGTTGGTGGTTCGTTCCCACCCCGGGACACCA
+Str: >>>>>.>..>>>>.........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<.<<<<<....
+
+>chr8.trna3-GluCTC.mat
+SS_info: D:9-24;A:26-42;T:47-63
+Seq: TCCTTGATGTCTAGTGGTTAGGATTTGGTGCTCTCACTGCAGCAGCCTGGGTTCATTTCTCAGTCAGGGAACCA
+Str: >>>>>>>.>>>>........<<<<.>.>>>.......<<<.<....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna28-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna14-TyrATA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCAATAGTTCAGCTGGTAGAGCAGAGGACTATAGGTCCTTAGGTTGCTGGTTCGATTCCAGCTTGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr19.trna8-SeCTCA.mat
+SS_info: D:12-27;A:28-46;T:63-77
+Seq: GCCCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGCGACAGAGTGGTTCAATTCCACCTTTCGGGCCCA
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>....<<<<<.>>>>.......<<<<<.<<<<<<<...
+
+>chr1-1.trna15-19-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTGAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna4-ProAGG.mat
+SS_info: D:10-24;A:26-42;T:55-71
+Seq: GGCTCGTTGGTCTAGGGGTGTGGTTCTCGCTTAGGGCGGGAGACCCAAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>.>.......<.<<<.>.>..<.<...>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna60-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTTCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGAGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna108-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCGATCCCCAGTACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr18.trna4-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACGAGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTTGAGCCCCATGTTGGGCACCA
+Str: >.>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<.<....
+
+>chr6.trna82-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATGGGTGATTCAGTGGTAGAATTTTCACCTGCCATGCAGGAGGTCCAGGTTCATTTCCTGGCCTATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>..>.......<..<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna113-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCACATGCTTTGCATGTGTGAGGCCCCGGGTTCGATCCCCGGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna22-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCCCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr9.trna6-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: TCCTCGTTAGTATGGTGGTGAGTATCCCTGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCAACGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>.......<<<<.<<<<<<<....
+
+>chr9.trna1-MetCAT.mat
+SS_info: D:10-24;A:26-45;T:51-67
+Seq: AGCAGAGTGGTGCAGTGGAAGCATACCTATGGGCCCATAACCCAGAGGTTGATGGATGGAAACCATCCTCTGCTACCA
+Str: >>>>>>>..>>>>.......<<<<.>...>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr9.trna3-TrpCCA.imat
+SS_info: D:12-27;A:29-45;T:51-67
+Seq: GGCAGAGGAGGGTGCAGTTGGCAGCCTGTCCAAGTCCAGATGGGATGGTCCTGGGTTCAAACCCCAGCTGCGCCC
+Str: >>>..>>....>.>>........<<.<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<..<<<.
+
+>chr21.trna1-SupTTA.mat
+SS_info: D:11-24;A:27-43;T:48-62
+Seq: GGCAGTGACATGTAATGGTTATGAGGGTGGACTTTAACCACACTGCCTAGGTTCAAATCCTGACTCTGTCACCA
+Str: >>>>>.>...>............<..>>>...........<<<....>>>>.......<<<<.<.<<<<<....
+
+>chr2.trna2-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1-6-12-1-1-6-12-1-17-12.trna78-75-48-4-69-72-45-10-81-38-12-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna147-SerAGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna65-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGTACGAGGTCCCGGGTTCAATCCCCGGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr13-15.trna3-11-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCACATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGCGGCCCGGGTTCGACTCCCGGTGTGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna31-SerGCT.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCCTCGTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr16-2-16-17-1-6.trna19-19-24-5-68-128-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCAATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna18-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAAATCAAGAGGTCCCTGATTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<....
+
+>chr6.trna20-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCACGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna8-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna16-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr12.trna6-TrpCCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGCTGCGTGTTCGAATCACGTCGGGGTCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna52-ArgTCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGCGGGTTCGAGTCCCTCCAGAGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<....
+
+>chr7.trna3-ArgCCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCATCTGGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna18-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCAGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna103-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATGGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCATCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna49-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: GCGTTGGTGGTGTAGTGGTGAGCACAGCTGCCTTTCAAGCAGTTAACGCGGGTTCGATTCCCGGGTAACGAACCA
+Str: .>>>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>>>.......<<<<..<<<<<.....
+
+>chr6.trna40-ValTAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTGGTGTAGTGGTTATCACATTCGCCTTACACGCGAAAGGTCCTCGGGTCGAAACCGAGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna19-TrpCCA.mat
+SS_info: D:12-27;A:29-45;T:50-66
+Seq: GGAAGGATGGGGCCAAGCTGGAAAGCCTGTGGGCTCCACAGTCATGTGCCTGGGTTCAATTCCCAGTTCTGCATCCA
+Str: .>.>>>>....>.>..........<.<.>>>>.........<<<<....>>>>>.......<<<<<<<<<.<.....
+
+>chr2.trna6-GluTTC.mat
+SS_info: D:8-23;A:26-40;T:46-62
+Seq: GCCTGTGGTCTAGTGGTTAGAATTCAGTGTTTTCAGTGCTCTAGTCCAGGTTCAATTCCTGGTCAGGGACCA
+Str: .>>>>..>>.>........<.<<..>>>>.......<<<<.....>>>>>.......<<<<<.<<<<.....
+
+>chr6.trna110-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna20-ThrTGT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna12-ArgCCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTGATGGATAAGGTACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTTCCACCTGGGGTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna136-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCGCGGTTCGAAACCGGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<....
+
+>chr19-17-17.trna4-8-36-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCGCCGTGGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna126-LeuAAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGTGGTCTAAGACGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTTGAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>.>...........<.<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna22-Undet???.mat
+SS_info: D:10-26;A:28-43;T:51-67
+Seq: GGCAGAATGGTGCAGCGGTTCAGCACCCAGGCTCTGCAGCCAGCTGTTGCCTGGGCTCAAATCCCAGCTCTGCCACCA
+Str: >>>>>>...>>>>.........<<<<.>.>>>......<<<.<.......>>>>>.......<<<<<.<<<<<<....
+
+>chr1.trna64-GluTTC.mat
+SS_info: D:9-22;A:25-41;T:46-62
+Seq: CCCTGTGGTCTAGTGGTTAGGAGTTGGTGCTTTCGTCATGACAGCCCAGGTTCAATTCCTGGTTAGAGACCA
+Str: >.>>>...>>>........<<<..>.>>>.......<<<.<....>>>>>.......<<<<<.<<<.<....
+
+>chr6.trna157-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGGAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTTGAAACCAGGCGGAAACACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<....
+
+>chr17.trna10-GlyTCC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCGTTGGTGGTATAGTGGTAAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna34-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCCTGTGGCTTAGCTGGTCAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna68-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCTGGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr10.trna2-SerTGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCAGCGATGGCCGAGTGGTTAAGGCGTTGGACTTGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAACCCTGCTCGCTGCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna69-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCCGTAGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGACTCCCAGCGGGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna58-LeuCAA.mat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGGATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>..<<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna130-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCTGTGGTGTAGTGGTTATCATGTTCGCCTCACACGAGAAAAGTCCCTGATTCGAGACTGGGTGGGAACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>.>.......<.<<<.....>>>>.........<<<<<<<<<<<....
+
+>chr6.trna163-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCTAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna102-101-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCCGGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna10-AlaCGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16-6-6.trna1-114-73-ArgCCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGCGTGGCCTAATGGATAAGGCGTCTGATTCCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna16-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr12.trna5-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTTAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCAATTCCCCGACGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna4-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTCCGTGGTTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna155-LeuTAA.mat
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCGGGATGGCTGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACAGGTGTCCGCGTGGGTTCGAGCCCCACTCCCGGTACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>>..<<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr4.trna4-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCATGTGGCCTAAGGGAAAAGACATCTCACTTTGGGTCAGAAGATTGAGGGTTCAAGTCCTTTCATGGTCACCA
+Str: >>>>>>>..>.>>........<<.<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna4-LeuAAG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCTCAATGGATAATGCGTCTGACTAAGAATCAGAAGATTCCAGCCTTGACTCCTGGCTGGCTCACCA
+Str: >>>>>>>..>>............<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<....
+
+>chr16.trna22-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCGTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGAGCCTCACACGGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna149-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGGTAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTCCAGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1-15-1-15-9-15-1-6.trna16-21-1-118-9-7-8-111-33-HisGTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCCGTGATCGTATAGTGGTTAGTACTCTGCGTTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna120-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTAGCATGCATGAGGTCCCGGGTTCGATCCCCAGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<....
+
+>chr6.trna137-SerCGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGTGTTGGACTCGAAATCCAATGGGGGTTCCCCGCGCAGGTTCAAATCCTGCTCACAGCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<..>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna17-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCAATTCCGGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna67-AlaAGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCTGGGTTCAATCCCCAGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna114-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:50-62
+Seq: GGTTCCATGGTGTAATGGTGACCACTTTGGACTCTGAATACAGTGATCAGAGTTCAAGTCTCACTGGAACCTCCA
+Str: >>>>>>>..>>>..........<<<.>>>.>.......<.<<<......>>>.......<<<..<<<<<<<....
+
+>chr6.trna125-ThrCGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGACTCCCAGTGGGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr8.trna10-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCGTTAGCGCAGTAGGTAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGATCCTCACACGGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr12.trna3-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACCCTGGACTCTGAATCCAGCAACCAGAGTTCCAGTCTCAGCGTGGACCTCCA
+Str: >>>>>>...>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<.<.<<<<<....
+
+>chr19.trna10-IleTAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGATCCTCACCTGGAGCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna50-SerAGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCACGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna5-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGCATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna52-ArgTCT.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGCGGGTTCGAGTCCCTCCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<.
+
+>chr17.trna39-TrpCCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna106-HisGTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GCCATGATCGTATAGTGGTTAGTACTCTGCGCTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCACCA
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<.<<<....
+
+>chr6.trna64-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCAATCCGAGTTCGAATCTCGGTGGGACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr10.trna6-ValTAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGTGGTTATCACATCTGCTTTACACGCAGAAGGTCCTGGGTTCAAGCCCCAGTGGAACCACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna18-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCAGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1-1-1-1.trna123-30-24-122-10-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTTGACTGTTAACTGAAAGGTTGGTGGTGCAAGCCCATCCAGGGATGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna136-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna90-AlaAGC.mat
+SS_info: D:10-27;A:29-45;T:49-65
+Seq: GGGGAATTAGCGCAAGTGGTAGAGTGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-15-17.trna123-10-7-SerGCT.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna32-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCTGTAGTATGGTGGTTATCACGTTAGTCTCACACGTGAAAGGTCCCTGGTTCGAAACCAGGTGGAAACACCA
+Str: >>>>>>>..>>............<<.>>.>>.......<<.<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna151-ThrCGT.mat
+SS_info: D:10-24;A:26-42;T:49-63
+Seq: GGCAGAGTGGTGCAGCGGAAGCGTGCTGGGCCCGTAACCCAGAGGTCAATGGATCGAAGCCATCCTTGGCTACCA
+Str: >>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<.<<<....
+
+>chr17.trna4-ArgTCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAATCCCACCAGAGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna99-ValCAC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCACTGGTGGTTCAGTGGTAGAATTCTCGCCTCACACGCGGGACACCCGGGTTCAATTCCCGGTCAAGGCACCA
+Str: >>..>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<..<<....
+
+>chr17.trna24-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:51-65
+Seq: AGCACCATGGCTTAGCTGGTTAAAGCACCTGTCTAGTAAACAGGAGATCCTGAGTTTCAATTCCAATGGTGCCTCCA
+Str: .>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<......>>...........<<.<<<<<<.....
+
+>chr17.trna16-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna14-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna145-SerAGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGTGATGGACTAGAAACCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>.........<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna84-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTCCCATGGTGTAATGGTTAGCACTCTGGGCTTTGAATCCAGCAATCCGAGTTCGAATCTTGGTGGGACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna25-SeCTCA.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GACCGTGTGGCCTTAATGGATAAGGTGTCTGACTTCAGATCAGAAGATTGAGGGTTTGAGTCCCTTTGTGGTCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna128-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:50-64
+Seq: GCCCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTTGAGCCCCACGTTTGGTGCCA
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<.<<<....
+
+>chr1-1.trna120-121-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:50-62
+Seq: GGTTCCATGGTGTAATGGTGAGCACTTTGGACTCTGAATACAGTGATCAGAGTTCAAGTCTCACTGGGACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<......>>>.......<<<..<<<<<<<....
+
+>chr1.trna9-ArgTCT.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTCCGGGTTCGAGTCCCGGCGGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr1.trna43-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATAGGTGGTTCAGTGGTAGAATTCTTGCCTGCCACGCAGGAGGCCCAGGTTTGATTCCTGGCCCATGCACCA
+Str: >>>>.>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<.<<<<....
+
+>chr18.trna1-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCGGGTGGTGTAGTGGATGGGATTTGGCGCTCTCACCACCATGGCCCGGATTTGATTCCCGGTCAGGGAACCA
+Str: .>>>.>>..>>.>........<.<<.>>>.>.......<.<<<....>>>>.........<<<<<<.<<<.....
+
+>chr5.trna20-LeuCAG.mat
+SS_info: D:11-22;A:25-45;T:54-70
+Seq: GGCAGTGGAGTTTAGTGGTTAAGGACCTGCTCAGACATCACAGGTAGGTAGATCTGGGTTCAAACCCTAGCCCTGGCACCA
+Str: >.>>>.>...>>........<<..>>>>>...........<<<<<........>>>>>.......<<<<<<.<<<.<....
+
+>chr6.trna133-ValCAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATTATGTTCGCCTCACACGCGAAAAGTCCCCGGTTCGAAATCAGGCGGGAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<....
+
+>chr6.trna15-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CTTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna42-LeuTAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna140-LeuCAA.mat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGTATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna25-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAGCGGTAGGGTGCCTGCTTAGCATGCAAGAGGTAGCAGGATCGACGCCTGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna175-SerGCT.mat
+SS_info: D:12-27;A:29-45;T:60-76
+Seq: GGAGAGGCCTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+Str: >>.>>>>....>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<.<<....
+
+>chr5-6-5-1-16.trna9-13-11-119-7-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna83-LeuTAA.mat
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCAGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACATATGTCCGCGTGGGTTCGAACCCCACTCCTGGTACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna21-GlnCTG.mat
+SS_info: D:10-25;A:28-42;T:49-66
+Seq: GGCAGTATGGTAGAGTGGTTAAGATCATGAACTCTGAAGTCAGAGATACTTGAATTTGAATGCTGGTTCTGTCACCA
+Str: >>>>>.>..>>............<<..>>>.........<<<......>>.>..........<.<<<.<<<<<....
+
+>chr6.trna63-IleTAT.imat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCAAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna140-LeuCAA.imat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGTATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr11.trna5-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCGGGGTTCAAGTCCCTGTTCGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna66-LeuCAA.mat
+SS_info: D:10-27;A:29-45;T:60-76
+Seq: GTCAGGATGGCCGAGCAGTCTTAAGGCGCTGCGTTCAAATCGCACCCTCCGCTGGAGGCGTGGGTTCGAATCCCACTTTTGACACCA
+Str: >>>>>>>..>>>............<<<..>>>>.......<<<<..>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chrX-X-X.trna5-7-6-IleGAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTAAGAGCGTGGTGCTGATAACACCAAGGTCGCGGGCTCGACTCCCGCACCGGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna4-ArgTCT.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAATCCCACCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr9.trna3-TrpCCA.mat
+SS_info: D:12-27;A:29-45;T:51-67
+Seq: GGCAGAGGAGGGTGCAGTTGGCAGCCTGTCCAAGTCCAGATGGGATGGTCCTGGGTTCAAACCCCAGCTGCGCCCCCA
+Str: >>>..>>....>.>>........<<.<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<..<<<....
+
+>chr6.trna78-LeuAAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCAAATCCCACCGCTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna20-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGTGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna13-GlyCCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAATGGTAGAATTCTCGCCTCCCACGCAGGAGACCCAGGTTCGATTCCTGGCCAATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>.>>.......<<.<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna131-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCCCCATGGTGTAATGGTCAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCCCCA
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<....
+
+>chr6.trna62-SerGCT.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr15.trna3-CysGCA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGTGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna59-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16-16.trna26-17-LeuCAG.mat
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna13-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6-6.trna130-174-173-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCTCCA
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<....
+
+>chr16.trna14-GlnTTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TAGGACTTGGTGTAATGGGTAGCACAGAGAATTTTGGATTCTCAGGGGTGGGTTCAATTCCTTTCGTCCTAGCCA
+Str: >>>>>>...>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<.<<<<<<....
+
+>chr6.trna92-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGTGCAGCTGGCAGCGCGTCAGTTTCATAATCTGAAAGTCCTGAGTTCAAGCCTCAGAGAGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr12.trna1-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:50-64
+Seq: ACCCAGATAGCTCAGTCAGTAGAGCATCAGACTTTTAATCTGAGGGTCCAAGGTTCATGTCCCTTTTTGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<......>.>>.......<<.<.<<<<<<<....
+
+>chr1.trna6-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTAGAGACCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>..>>.......<<..<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr12.trna2-SerCGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTCACGGTGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTTTCCCCGCACAGGTTCGAATCCTGTTCGTGACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna117-AlaCGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGATCAGTGGTAGAGCGCATGCTTCGCATGTACGAGGTCCCTGGTTCAATCCCTGGTACCTCCACCA
+Str: >>>>>>>..>.>>.......<<.<.>.>>>.......<<<.<.....>>.>>.......<<.<<<<<<<<<....
+
+>chr9.trna2-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCCGTGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAAAAGATTGCAGGTTTGAGTTCTGCCACGGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1.trna11-95-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTCGAGCCCACCCAGGGATGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna32-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACCCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna24-161-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAGGCGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGACGCCCGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna16-ValTAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGCGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna94-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGATTAGCTCAAGCGGTAGAGCGCCTGCTTAGCATGCAAGAGGTAGCAGGATCGATGCCTGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna93-22-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna2-GlyCCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCCTTGGTGGTGCAGTGGTAGAATTCTCGCCTCCCACGTGGGAGACCCGGGTTCAATTCCCGGCCAATGCACCA
+Str: >>.>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<....
+
+>chr11.trna11-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna18-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCATGCGGGCGGCCGGGCTTCGATTCCTGGCCAATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>.>>.........<<.<<<<<<<<....
+
+>chr14.trna2-LeuTAG.mat
+SS_info: D:10-26;A:28-44;T:58-74
+Seq: GGTAGTGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCACTGCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna31-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:47-60
+Seq: TCCCTGGTAGTCTAGTGGCTAAAGTTTGGCGCTTTCACCGCCGGGACTGGTTGATTCCAGATCAGGGGACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<...>>>>......<<<<.<<<<<<<....
+
+>chr6.trna66-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna34-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGAACCCCGTACGGGCCACCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr17.trna30-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTAGGGCTCAGGGATAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCGAATCTAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<....
+
+>chr6.trna172-SerTGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr2-16.trna27-34-GlyCCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCGCCGCTGGTGTAGTGGTATCATGCAAGATTCCCATTCTTGCGACCCGGGTTCGATTCCCGGGCGGCGCACCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna14-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCTGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna86-ArgTCT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATGGACGAGCGCGCTGGACTTCTAATCCAGAGGTTCCGGGTTCGAGTCCCGGCAGAGATGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna75-97-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTCCTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAACCTCAGAGGGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr8.trna8-Undet???.mat
+SS_info: D:9-21;A:23-40;T:45-61
+Seq: GGTCTTGTGCTCAGTGGAAGCCTCTGTCTGACCATACAGATGATCCAGGTTCGAATCCTGGCAAGGCCACCA
+Str: >>>>>>>.>>>.......<<<.>>>>>........<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna107-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-62
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGTTCGATCCCCGACACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>.>>.......<<.<.<<<<<<<....
+
+>chr1.trna93-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: ATCTCCGTGGAGCAATTGGTTAGCGCGTTCGGCCGTTAACCGGAAAGTTGGTGGTTCGAGCCTACCCAGGGACGCCA
+Str: .>>>>.>..>.>>.........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<.....
+
+>chr1.trna9-ArgTCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTCCGGGTTCGAGTCCCGGCGGAGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna12-SerAGA.mat
+SS_info: D:11-23;A:26-42;T:48-64
+Seq: GGGTGTATGGCTCAGGGGTAGAGAATTTGACTAGAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>.>>>...>>>.......<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<....
+
+>chrX.trna2-LeuTAA.mat
+SS_info: D:10-27;A:29-45;T:51-67
+Seq: GTTAAGATGGCAGAGCCCGGCAATTGCATAAGACTTAAAACTTTATAATCAGAGGTTCAACTCCTCTCATTAACACCA
+Str: >>>>>....>>>>..........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<..<<<<<....
+
+>chr6.trna81-LeuTAA.mat
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACTCATTTGGCTGAGTGGTTAAGGCATTGGACTTAAGATCCAATGGAGTAGTGGCTGTGTGGGTTTAAACCCCACTACTGGTACCA
+Str: >>>..>...>>>..........<<<.>>>>>.......<<<<<..>..>...<..<..>>>>>.......<<<<<.<..<<<....
+
+>chr1.trna58-LeuCAA.imat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGGATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>..<<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr16.trna10-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr5.trna24-LysCTT.mat
+SS_info: D:11-24;A:27-43;T:49-65
+Seq: GCCCGACTACCTCAGTCGGTGGAGCATGGGACTCTTCATCCCAGGGTTGTGGGTTCGAGCCCCACATTGGGCACCA
+Str: >>>>>>....>>>........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<....
+
+>chr6.trna30-ProCGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGTGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna21-SerTGA.mat
+SS_info: D:11-21;A:24-40;T:46-62
+Seq: GAGAAGGTCACAGAGGTTATGGGATTGGCTTGAAACCAGTCTGTGGGGGGTTCGATTCCCTCCTTTTTCACCA
+Str: >>>>>>>...>.........<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr19.trna5-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCAGCTAGCTCAGTCGGTAGAGCATAAGACTCTTAATCTCAGGGTTGTGGATTCGTGCCCCATGCTGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>.........<<<<<<<<<<<....
+
+>chr6.trna119-AlaCGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna21-ArgCCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1-1-1-21.trna37-35-39-41-2-GlyGCC.mat
+SS_info: D:10-24;A:26-42;T:47-63
+Seq: GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCCATGCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna17-SupTTA.mat
+SS_info: D:10-25;A:27-41;T:47-63
+Seq: GCCCGGATAGTTCAGTTGGTAGAGCATCAGACTTAATCAGAGGGTCCAGGGTTCAAGTCCCTGTTTGGGTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>.>>.....<<.<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-2-6.trna29-5-55-IleTAT.imat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna148-SerTGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGTCGGCTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna146-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAGTCTCGGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna106-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAGATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna89-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGTGGTTCGAACCCACCCAGAGGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6-1-17-6-6-6-6.trna129-171-32-20-150-169-142-2-MetCAT.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCGAAACCATCCTCTGCTACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna18-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCAATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-gl000192-random-1.trna1-20-AsnATT.mat
+SS_info: D:10-26;A:28-44;T:51-65
+Seq: GTCTCTGTGGCGCAATCGGTCAGAGCGTTCGGCTATTAACCGAACGGTGAGTAGTTCAAGACCACCCAGGGACGCCA
+Str: >>>>>>>..>>.>.........<.<<.>>>>>.......<<<<<......>>.>.......<.<<.<<<<<<<....
+
+>chr6.trna53-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: ACCTGGGTAGCTCAGTAGGTAGAACATCAGACTTTTAATCTGAGGGTCTAGGGTTCAAGTCCCTGTCCAGGCGCCA
+Str: .>>>>>>..>.>>........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<.....
+
+>chr6-6.trna165-28-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTCAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr6-6-11-13-12-19.trna96-109-15-1-11-14-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna124-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGCGGTTCGAACCCACCCAGAGGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<....
+
+>chr19.trna6-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CTGCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTCGTGCCCCATGTTGGGTGCCA
+Str: .>.>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<.....
+
+>chr12.trna8-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCACGTATGAGGCCCCGGGTTCAATCCCCGGCATCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna11-ProAGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGATGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1.trna134-84-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1.trna28-112-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna51-SerTGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna23-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna19-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGTTACTCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<....
+
+>chr6.trna14-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7-7-7-3.trna15-13-6-6-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr9.trna5-GlnCTG.mat
+SS_info: D:12-21;A:27-41;T:49-65
+Seq: GAGCTGTAGCATAGTGATTAGGGACATGGACTCTGGAGCCAAATCTGCCTGGGTTCTAGTCCCAGCTGTCTCACCA
+Str: >>>>.>...>.>........<.<...>>>.........<<<.......>>>>>.......<<<<<<.<.<<<....
+
+>chr6.trna37-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTTGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAACACCA
+Str: >>>>>.>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<....
+
+>chr17.trna14-ThrCGT.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCGCGGGTTCGAACCCCGTCCGTGCCTCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11-X.trna17-4-ValTAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGTTCCATAGTGTAGTGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna2-ArgCCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCGGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCCGGGGTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-1-1-1-1-1-6.trna77-116-74-77-71-80-87-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna74-100-LeuCAA.imat
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr17.trna11-SupCTA.mat
+SS_info: D:10-26;A:28-41;T:50-66
+Seq: GGCAGTGACGCCTACTGGTTTAGAGCACAGATTCTAGATCGAGACATTCCTGGGTTCAAATCCCAGCACTGTTGCCA
+Str: >>>>>>>..>>.>.........<.<<.>.>>.......<<<........>>>>>.......<<<<<<<<<<<<....
+
+>chr22.trna1-SeCTCA.mat
+SS_info: D:12-27;A:28-46;T:63-77
+Seq: GCTCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGTGACAGAGTGGTTCAATTCCACCTTTGTAGGCCA
+Str: .>>..>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>....<<<<<.>>>>.......<<<<<.<<..<<....
+
+>chr6.trna89-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCCCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna160-23-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTGGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGCAGGATCGACGCCTGCACTCTCCACCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<....
+
+>chr6.trna3-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna21-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGCTGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCAAGCCTCAGAGAGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna127-ThrTGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTTGTAAACAGGAGATCCTGGGTTCGAATCCCAGTAGAGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna97-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAAGTTGGTGGTTCGAACACACCCAGAGGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<....
+
+>chr6.trna38-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTGGTTAGTTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGTGGGTTCGATCCCCATATCGGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna80-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGCGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr8.trna12-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCTTCAATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATTCTTAGGTGCTGGTTTGATTCCGACTTGGAGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<<<<.
+
+>chr7.trna9-TyrGTA.mat
+SS_info: D:10-24;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGGGCTAGAGCTTTTTGACTGTAGAGCAAGAGGTCCCTGGTTCAAATCCAGGTTCTCCCTCCA
+Str: >>>>>.>..>>>>.......<<<<..>>>>.........<<<<.....>>>>>.......<<<<<<.<<<<<....
+
+>chr6.trna71-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCTGGATAGCTCAGTTGGTAGAACATCAGACTTTTAATCTGACGGTGCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+Str: >>>>>>>..>.>>........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr13-2.trna5-20-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCCATATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGTGGCCCGGGTTCGACTCCCGGTATGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna166-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna42-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCGGTAATCCGAGTTCAAATCTCGGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr9-11.trna4-3-ArgTCT.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6.trna134-LeuTAA.mat
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCGGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGGCTGGTGCCCGCGTGGGTTCGAACCCCACTCTCGGTACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr4.trna2-LeuTAA.mat
+SS_info: D:10-27;A:29-45;T:51-67
+Seq: GTTAAGATGGCAGAGCCTGGTAATTGCATAAAACTTAAAATTTTATAATCAGAGGTTCAACTCCTCTTCTTAACACCA
+Str: >>>>>>>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna95-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGCGGTAGAGCGCTCCCTTAGCATGCGAGAGGTAGCGGGATCGACGCCCCCATTCTCTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<.....>.>>>.......<<<.<<<<<<<<....
+
+>chr11.trna4-LeuTAA.mat
+SS_info: D:10-25;A:27-43;T:59-75
+Seq: ACCAGAATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGATTCATATCCGCGTGGGTTCGAACCCCACTTCTGGTACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna55-LysTTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCGGAGAGCTCAGTGGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCTCGTTCGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>.>>>.......<<<.<<<<<<<<....
+
+>chr5.trna13-ThrTGT.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna9-AlaAGC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGAATTAGCTCAAGTGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGTGGGATCGATGCCCGCATTCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16-1-17.trna6-52-37-ProCGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna19-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna13-AsnGTT.mat
+SS_info: D:10-26;A:28-46;T:52-68
+Seq: GTCTCTGTGGCGCCATCGGTTAGTGCCTTCGGCTGTTTGAACCGAAAGGCTGGTGGTTCAAGCCCACCCAGAGATGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.........<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna56-ThrTGT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGCTCCATAGCTCAGTGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCGATCCTCGCTGGGGCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6.trna100-74-LeuCAA.mat
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna124-ArgTCG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna63-IleTAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCAAGCCTCACCTGGAGCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna4-ProAGG.imat
+SS_info: D:10-24;A:26-42;T:55-71
+Seq: GGCTCGTTGGTCTAGGGGTGTGGTTCTCGCTTAGGGCGGGAGACCCAAGAGGTCCCGGGTTCAAATCCCGGACGAGCCC
+Str: >>>>>>>..>>>.........<<<.>>>.>.......<.<<<.>.>..<.<...>>>>>.......<<<<<<<<<<<<.
+
+>chr17-6-6-14-6.trna9-158-11-10-154-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr6-6-3-6.trna36-156-11-138-ArgACG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCTAGGTTCGACTCCTGGCTGGCTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna79-GlnTTG.mat
+SS_info: D:11-25;A:28-42;T:49-65
+Seq: GTGCAGAGTAGTACAGTGGTTAAACCATGGTCTTTGGAGCCAGACTGCCTGGGGTCGGATCCCAGCTCTCACACCA
+Str: >>>.>>>>..>>...........<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna7-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAAGTCCTTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna7-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGATTGGTGGTTCGAGCCCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna82-GlyTCC.mat
+SS_info: D:10-25;A:27-43;T:49-63
+Seq: GCGTTGGTGGTATAGTGGTGAGCATAGTTGCCTTCCAAGCAGTTGACCCGGGCTCGATTCCCGCCCAACGCACCA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<.....>>>>.......<<<<.<<<<<<<....
+
+>chr17-6-6.trna6-170-168-TrpCCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14.trna14-GluTTC.mat
+SS_info: D:9-24;A:26-42;T:47-63
+Seq: ACCCTGTGGTCTAGTGGCTAAGACTTTGTGCTTTCATTGCTGCATCCTAGGTTCAATTCCCAGTCAGGGAACCA
+Str: .>>>>>..>>>>........<<<<.>.>>>.......<<<.<....>>.>>.......<<.<<.<<<<<.....
+
+>chr1.trna101-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: ATCTCCGTGGAGCAATTGGTTAGCGCGTTCGGCTGTTAACCGGAAAGTTGGTGGTTCGAGCCTACCCAGGGACGCCA
+Str: .>>>>.>..>.>>.........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<.....
+
+>chr7.trna10-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCTCTGGTTCAAATCCAGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1-1-1-1-6-1-1.trna38-40-36-34-7-67-42-LeuCAG.mat
+SS_info: D:10-26;A:28-44;T:59-75
+Seq: GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTCCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna127-CysGCA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGGGTATAGCTCAGGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr20.trna6-LeuAAG.mat
+SS_info: D:10-26;A:28-44;T:59-73
+Seq: GGTAGGGTGGCCGAGCGGTCTAAGGCACTGTATTAAGACTCCAGTCTCTTCAGAGGCATGGGTTTGAATCCCACTGCTGCCACCA
+Str: >>>>>.>..>>>...........<<<.>>>.>.......<.<<<.>>>>..<<<<...>>>>.......<<<<.<.<<<<<....
+
+>chr1.trna22-GlnCTG.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCCATCTGAGTTCGAGTCTCTGTGGAACCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<<<<....
+
+>chr17.trna40-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCGCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna139-ValAAC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCTGGATCAAAACCAGGCGGAAACACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna1-TrpCCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GACCTCGTGGCGCAACGGCAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna135-AsnGTT.mat
+SS_info: D:10-26;A:31-41;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTACAGACCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>..>>.......<<..<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr2.trna2-TyrGTA.imat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+>chr6-6.trna135-167-ThrAGT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCTCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna12-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTTGAGCCCACCCAGGGATGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr1.trna94-GluTTC.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCTGCAGCTCGAGTTCGATTCCTGGTCAGGGAACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<.<....>>>.>.......<.<<<<<<<<<<....
+
+>chr8-6-6-6-6-17.trna11-47-44-5-46-35-SerAGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna17-TyrGTA.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna144-AspGTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: TCCTCGTTAGTATAGTGGTGAGTGTCCCCGTCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+>chr3.trna8-GluCTC.mat
+SS_info: D:10-25;A:27-43;T:48-64
+Seq: CCCCTGGTGGTCTATCGGTTAGGATTCAGACCTCTCACCACTGCTACCCATGCTCGATTCCTGGTCAGGGAACCA
+Str: .>>>>>>..>>>>........<<<<.>>>...........<<<....>>>.>.......<.<<<<<<<<<.....
+
+>chr6.trna61-MetCAT.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCTAAACCATCCTCTGCTACCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6-6-6.trna162-27-164-MetCAT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCTCTTAGCGCAGCGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr17.trna18-ArgCCT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna141-LeuCAA.mat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGCATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna57-IleAAT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GGCCGGTTAGCTCAGTCGGCTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+Str: >>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<....
+
+>chr7.trna17-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTATAGCTTAGGGGTAGAGCATTTGACTGCAGATCAAAAGGTCCCTGGTTCAAATCCAGGTGCCCCTTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna103-PheGAA.mat
+SS_info: D:10-25;A:27-43;T:50-66
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACCGAAGATCTTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<.<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna2-LysCTT.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: AACCGAATAGCTTAGTTGATGAAGCGTGAGACTCTTAATCTCAGGGTAGTGGGTTCAAGCCCCACATTGGACACCA
+Str: ..>>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<......
+
+>chr1-1.trna113-115-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTAGTGGTTCGAGCCCACCCGGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<....
+
+>chr1.trna47-AsnGTT.mat
+SS_info: D:10-26;A:28-44;T:50-66
+Seq: GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGATCCCACCCAGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr14-6-6.trna7-8-6-ArgACG.mat
+SS_info: D:10-25;A:27-43;T:49-65
+Seq: GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCCAGGTTCGACTCCTGGCTGGCTCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna141-LeuCAA.imat
+SS_info: D:10-26;A:28-44;T:60-76
+Seq: GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGCATGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.
+
+>chr5-16-16-14-16.trna14-3-8-6-28-ProTGG.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr16.trna15-ThrCGT.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCACGGGTTCGAACCCCGTCCGTGCCTCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+>chr6.trna35-SerCGA.mat
+SS_info: D:10-25;A:27-43;T:58-74
+Seq: GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCAAATCCTGCTCACAGCGCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<....
+
+>chr11.trna18-AlaTGC.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGGGTGTAGCTCAGTGGTAGAGCGGATGCTTTGCATGTATGAGACTTTGGGTTGGATCCCCAGCACCTCCACCA
+Str: >>>>>>>..>>>>.......<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<....
+
+>chr7.trna8-CysGCA.mat
+SS_info: D:10-24;A:26-42;T:48-64
+Seq: GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCACTCCA
+Str: >.>.>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<.<....

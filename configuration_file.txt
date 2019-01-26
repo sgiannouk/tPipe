@@ -1,0 +1,92 @@
+################################ CONFIGURATION FILE ################################################
+### Run:
+###			
+###		tpipe <configuration file>
+###
+### 
+###	* threads: Indicate the number of threads/cores that will be used for the analysis
+###	
+### * no_QC: If is indicated as True, then Quality Control will be skipped
+###
+###	* no_Preprocessing: If is indicated as True, then preprocessing will be skipped
+###	
+### * adapter_sequence: Sequence of the 3' end adapter. Illumina Small RNA 3' Adapter
+###						is set as default.
+###
+###	* keep_short_reads: if False, files that contain discarded reads (smaller than 15 bases) 
+###						will be removed 
+###
+###	*** BOWTIE 1 in the default aligner used in tPipe ***
+###
+### * keep_aligned: If set False, then the aligned files will be discarded
+###
+###	* Ref_Genome: Path of the directory that contains the indexes of the reference genome 
+###				  along with the prefix of the indexes 
+###				  (e.g refseq folder contains: Desktop/refseq/hg19.1.ebwt, 
+###											   Desktop/refseq/hg19.2.ebwt, 
+###											   ...
+###					   So we want to implement:
+###				   								Ref_Genome = Desktop/refseq/hg19)
+###					
+###	* tLibs: Path of the directory that contains the indexes of the reference tLibraries
+###			 (only path of the folder is required - without prefix of the indexes)
+###
+###	* keep_ss_files: If set to False, then the files of each sample containing the secondary 
+###					 structure of the detected molecules, will be discarded
+###
+###	* no_stats: If is indicated as True, no statistical analysis will be performed
+###
+###
+###	* keep_modified: If set False, then the .fasta files containing the modified versions
+###					 of the detected molecules, will be discarded
+###
+###	* keep_normalised_em: If set False, then the normalised version of the compact Expression
+###						  Matrix will be skipped.
+###
+###	* input_folder: Path of the directory containing the data
+###
+###	* output_folder: Path of the directory that will host the analysis
+###
+###	DESCRITION
+###	tPipe was designed to preprocess and analyse small RNA-Seq data and detect full length tRNA 
+###	and tsRNA (tRNA-derived small RNAs) molecules. The input files should be in compressed format
+###	*.fastq.gz or *.fq.gz.
+###
+###
+###	Help:
+###
+###					tpipe --help
+###
+####################################################################################################
+
+[General]
+threads = 1
+
+
+[Quality_Control]
+no_QC = False
+
+
+[Preprocessing]
+no_Preprocessing = False
+adapter_sequence = TGGAATTCTCGGGTGCCAAGGAACTC
+keep_short_reads = True
+
+[Aligning]
+keep_aligned = True
+Ref_Genome = RefLibrary/hg19
+tLibs = /tLibraries
+
+[Classification]
+keep_ss_files = True
+
+
+[Basic_Statistics]
+no_stats = False
+keep_modified = True
+keep_normalised_em = True
+
+
+[IO]
+input_folder = Data
+output_folder = -
